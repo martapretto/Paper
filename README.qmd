@@ -3,4 +3,4 @@ title: "formespazi-narrazioneinclusiva"
 format: html
 ---
 
-[Forme e spazi di narrazione inclusiva](Forme e spazi di narrazione inclusiva.pdf)
+[Forme e spazi di narrazione inclusiva](Forme e spazi di narrazione inclusiva.html)
