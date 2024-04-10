@@ -1,6 +1,1 @@
----
-title: "Forme e spazi di narrazione inclusiva"
-format: html
----
-
 [Forme e spazi di narrazione inclusiva](/formespazi-narrazioneinclusiva.html)
